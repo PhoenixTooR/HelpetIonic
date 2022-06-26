@@ -1,0 +1,12 @@
+/* Add application styles & imports to this file! */
+@import '~@ionic/angular/css/ionic.bundle.css';
+:root {
+  /* barra superior */
+  --ion-toolbar-background: #e886e2;
+  --ion-toolbar-color: #fff;
+
+  /* barra inferior */
+  --ion-tab-bar-background: #29065a;
+  --ion-tab-bar-color: #44578a;
+  --ion-tab-bar-color-selected: #fff100;
+}
